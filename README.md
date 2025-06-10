@@ -1,9 +1,10 @@
+![Doraemon](https://github.com/ananyagoyal1/ananyagoyal1/blob/main/doraemon.jpg?raw=true)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ananyagoyal1/count.svg" />
 </p>
 
-![Doraemon](https://github.com/ananyagoyal1/ananyagoyal1/blob/main/doraemon.jpg?raw=true)
 
 # Hi 👋, I'm Ananya Goyal
 
