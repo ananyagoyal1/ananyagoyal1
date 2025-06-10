@@ -29,7 +29,6 @@
 
 - 💬 Ask me about **Python, Java, C, C++, HTML, CSS, JavaScript, SQL**
 
-- 📫 How to reach me: **omananyagoyal@gmail.com**
 
 ## Connect with me:
 <p align="left">
