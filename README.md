@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/ananyagoyal1/count.svg" />
 </p>
 
-![text]([image_url](https://github.com/ananyagoyal1/ananyagoyal1/blob/main/doraemon.jpg?raw=true))
+![Doraemon](https://github.com/ananyagoyal1/ananyagoyal1/blob/main/doraemon.jpg?raw=true)
 
 # Hi 👋, I'm Ananya Goyal
 
