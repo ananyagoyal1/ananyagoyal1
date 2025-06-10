@@ -3,6 +3,8 @@
   <img src="https://profile-counter.glitch.me/ananyagoyal1/count.svg" />
 </p>
 
+![https://github.com/ananyagoyal1/ananyagoyal1/blob/main/doraemon.jpg?raw=true](image_url)
+
 # Hi 👋, I'm Ananya Goyal
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyagoyal1&label=Profile%20views&color=0e75b6&style=flat" alt="ananyagoyal1" /> </p>
