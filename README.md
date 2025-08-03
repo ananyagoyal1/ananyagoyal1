@@ -25,13 +25,7 @@
 - 💬 Ask me about **Python, Java, C, C++, HTML, CSS, JavaScript, SQL**
 
 
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/MiraculeuseLB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MiraculeuseLB" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/1ananyagoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1ananyagoyal" height="30" width="40" /></a>
-<a href="https://instagram.com/_ananya_goyal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ananya_goyal_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omananyagoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omananyagoyal" height="30" width="40" /></a>
-</p>
+
 
 ## Languages and Tools:
 <p align="left">
