@@ -1,9 +1,4 @@
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ananyagoyal1/count.svg" />
-</p>
-
 
 # Hi 👋, I'm Ananya Goyal
 
