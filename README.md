@@ -1,4 +1,3 @@
-![Doraemon](https://github.com/ananyagoyal1/ananyagoyal1/blob/main/doraemon.jpg?raw=true)
 
 <p align="center"> 
   Visitor count<br>
