@@ -11,7 +11,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-<p align="left"> <a href="https://twitter.com/MiraculeuseLB" target="blank"><img src="https://img.shields.io/twitter/follow/MiraculeuseLB?logo=twitter&style=for-the-badge" alt="MiraculeuseLB" /></a> </p>
+
 
 - 🔭 I'm currently working on various projects:
   1. Drowsiness and Yawn Detection System
