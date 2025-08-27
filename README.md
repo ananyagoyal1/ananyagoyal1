@@ -59,10 +59,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyagoyal1&theme=default" alt="GitHub Streak" />
 </p>
 
----
 
-## Live Metrics & Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananyagoyal1&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
-</p>
