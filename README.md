@@ -48,15 +48,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyagoyal1&show_icons=true&theme=default&locale=en" alt="GitHub stats" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyagoyal1&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyagoyal1&theme=default" alt="GitHub Streak" />
-</p>
+
 
 
