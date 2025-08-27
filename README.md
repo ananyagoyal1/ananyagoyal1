@@ -58,3 +58,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyagoyal1&theme=default" alt="GitHub Streak" />
 </p>
+
+---
+
+## Live Metrics & Stats
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ananyagoyal1&label=Profile%20Views&color=0e75b6&icon=5&pretty=true" alt="Profile views counter" />
+</p>
