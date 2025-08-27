@@ -64,5 +64,5 @@
 ## Live Metrics & Stats
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ananyagoyal1&label=Profile%20Views&color=0e75b6&icon=5&pretty=true" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=ananyagoyal1&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
 </p>
