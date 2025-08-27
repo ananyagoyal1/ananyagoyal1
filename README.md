@@ -1,7 +1,7 @@
-<!-- Custom Banner at the Top -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/03/06/12/44/code-4913980_1280.png" alt="Minimalist Coding Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/design-and-code/assets/main/header-banner.png" alt="Coding Banner" width="100%"/>
 </p>
+
 
 <!-- Typing Effect for Intro -->
 <p align="center">
