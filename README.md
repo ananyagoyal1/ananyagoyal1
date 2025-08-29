@@ -43,13 +43,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyagoyal1&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
-</p>
 
 
 
